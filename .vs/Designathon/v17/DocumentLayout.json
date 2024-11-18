@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ann\\hexaware\\.Net\\Designathon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\repositories\\riderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\repositories\\riderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\service\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\service\\rideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\utility\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\utility\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\repositories\\iriderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\repositories\\iriderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\service\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\service\\irideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\models\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\models\\rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|c:\\ann\\hexaware\\.net\\designathon\\rideshare\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E98D8E-91D2-49E5-A1A7-DAF17A2ECAC4}|RideShare\\RideShare.csproj|solutionrelative:rideshare\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRideRepository.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Repositories\\IRideRepository.cs",
+              "RelativeDocumentMoniker": "RideShare\\Repositories\\IRideRepository.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Repositories\\IRideRepository.cs",
+              "RelativeToolTip": "RideShare\\Repositories\\IRideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:25:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RideService.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Service\\RideService.cs",
+              "RelativeDocumentMoniker": "RideShare\\Service\\RideService.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Service\\RideService.cs",
+              "RelativeToolTip": "RideShare\\Service\\RideService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:24:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RideRepository.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Repositories\\RideRepository.cs",
+              "RelativeDocumentMoniker": "RideShare\\Repositories\\RideRepository.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Repositories\\RideRepository.cs",
+              "RelativeToolTip": "RideShare\\Repositories\\RideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:22:19.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbUtility.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Utility\\DbUtility.cs",
+              "RelativeDocumentMoniker": "RideShare\\Utility\\DbUtility.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Utility\\DbUtility.cs",
+              "RelativeToolTip": "RideShare\\Utility\\DbUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:19:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Program.cs",
+              "RelativeDocumentMoniker": "RideShare\\Program.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Program.cs",
+              "RelativeToolTip": "RideShare\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:40:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRideService.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Service\\IRideService.cs",
+              "RelativeDocumentMoniker": "RideShare\\Service\\IRideService.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Service\\IRideService.cs",
+              "RelativeToolTip": "RideShare\\Service\\IRideService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:24:22.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "RideShare\\Models\\Booking.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Booking.cs",
+              "RelativeToolTip": "RideShare\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:19:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rider.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Rider.cs",
+              "RelativeDocumentMoniker": "RideShare\\Models\\Rider.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Rider.cs",
+              "RelativeToolTip": "RideShare\\Models\\Rider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:18:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "RideShare\\Models\\Ride.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Ride.cs",
+              "RelativeToolTip": "RideShare\\Models\\Ride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:18:24.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "RideShare\\Models\\Driver.cs",
+              "ToolTip": "C:\\ann\\hexaware\\.Net\\Designathon\\RideShare\\Models\\Driver.cs",
+              "RelativeToolTip": "RideShare\\Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:17:28.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
